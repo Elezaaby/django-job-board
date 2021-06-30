@@ -6,6 +6,8 @@ Job :
     - published at
     - vacancy
     - salary
+    - category
+    - experience
 
     - apply job
     - post job
